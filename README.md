@@ -8,6 +8,6 @@ This smart travel guide app seeks to solve that problem.
 
 Requirements:
 Users are able to read text about the places they can visit in that area.
-Users are able to see pictures and videos about places in nearby areas.
+Users are able to see pictures about places in nearby areas.
 Users are able to see guidance-related details requested by the users so that they can explore tourist destinations better.
-Users are able to Find Current Location, Locate in Map, Video Search, Weather Forecast, and Calculate Distance between two Cities.
+Users are able to Find Location, Locate in Map, Weather Forecast, and Calculate Distance between two Cities.
